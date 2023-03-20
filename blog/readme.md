@@ -1,0 +1,2 @@
+store images for blogs
+
